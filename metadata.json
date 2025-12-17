@@ -1,0 +1,8 @@
+{
+  "name": "OpenMed Labs",
+  "description": "An open innovation platform for healthcare where doctors, engineers, and researchers collaborate on low-cost, open-source medical solutions for underserved communities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
